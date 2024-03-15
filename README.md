@@ -1,2 +1,3 @@
-# IDN403M-Hermun-2024
+# IDN403M-Hermun-2024 - Lokaverkefni
+Powerpuff Girls
 Koltrefjaframleiðsla Össur
